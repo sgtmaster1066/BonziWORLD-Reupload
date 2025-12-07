@@ -1,4 +1,4 @@
-This is a reupload of the BonziWORLD repository. The creator of the original BonziWORLD (Joseph Judge) deleted it but i still had the server in my files and reuploaded it here
+This is a reupload of the BonziWORLD repository. The creator of the original BonziWORLD (Joseph Judge) deleted it but i still had the server in my files and reuploaded it here. The only things i have touched here is this README, the hostname in script.min.js (no matter the port number or url name. it will always connect). and this one is prebuilt! Everything else is untouched
 
 # BonziWORLD
 
