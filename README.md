@@ -1,3 +1,5 @@
+This is a reupload of the BonziWORLD repository. The creator of the original BonziWORLD (Joseph Judge) deleted it but i still had the server in my files and reuploaded it here
+
 # BonziWORLD
 
 This project has been discontinued due to my time being taken up by other responsibilities. Thanks for all the laughs and memes along the way.
